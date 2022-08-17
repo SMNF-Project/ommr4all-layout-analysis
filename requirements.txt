@@ -6,4 +6,4 @@ opencv-python-headless>=4,!=4.1.2.30
 dataclasses
 pillow
 matplotlib
-shapely
+shapely==1.8.3
